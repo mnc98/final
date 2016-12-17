@@ -88,14 +88,121 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+h1,h2,h3,h4,h5,h6 {
+  font-family: Sans-Serif;
+}
+h1 { font-size: 200%;}
+h2 { font-size: 180%;}
+h3 { font-size: 160%;}
+h4 { font-size: 140%;}
+h5 { font-size: 120%;}
+h6 { font-size: 100%;}
 
+p {
+  font-family: Serif;
+}
 
+.color1 {
+  background-color: #244687;
+  color: #FFFFFF;
+}
+.color1 a {
+  color: #FFFFFF;
+}
+.color2 a {
+  color: #FFFFFF;
+}
+.color2 {
+  background-color: #944436;
+  color: #FFFFFF;
+}
 
+.color3 {
+  background-color: #0A1A3A;
+  color: #FFFFFF;
+}
+.color3 a {
+ color: #FFFFFF;
 
+}
+.color4 {
+  background-color: #3E540E;
+  color: #FFFFFF;
+}
+.color4 a {
+  color: #FFFFFF;
+}
+   
+#wrapper {
+   width: 960px;
+   margin-left: auto;
+   margin-right: auto;
+   border: 1px solid;
+}
+#header {
+   background-color: gray;
+   height: 86px;
+   line-height: 86px;
+}
+#logo {
+  width: 367px;
+  float: left;
+}
+#menu {
+  width: 562px;
+  float: left;
+  text-align: right;
+  padding-right: 31px;
+}
+#menu a {
+  font-family: Sans-Serif;
+  font-size: 20px;
 
+}
+#menu ul {
+  margin: 0px;
+  padding: 0px;
+}
+#menu li {
+  display: inline;
+}
+#logo img {
+  height: 86px;
+  width: 86px;
+}
+#callout1, #callout2, #callout3 {
+  float: left;
+  width: 320px;
+}
+#banner {
+  clear: both;
+  background-color: green;
+  height: 366px;
+  line-height: 366px;
+  padding-left: 31px;
+  padding-right: 31px;
+  background-image: url('../img/banner.jpg');
+  background-position-x: 115px;
+}
+#banner h1 {
+  margin: 0px;
+}
+#footer {
+  clear: both;
+}
+#main_content {
+  width: 545px;
+  padding-left: 24px;
+  padding-right: 24px;
+  float: left;
+  font-size: 19px;
+  line-height: 28px;
+}
+#sidebar {
 
-
-
+  width: 367px;
+  float: left;
+}
 
 
 

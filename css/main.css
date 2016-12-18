@@ -166,7 +166,7 @@ p {
 #menu li {
   display: inline;
 }
-#logo { background : url('http://i1.tudocdn.net/img/width114/height98/id113517_1.jpg'); } {
+#logo img {
   height: 86px;
   width: 86px;
 }

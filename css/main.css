@@ -99,7 +99,7 @@ h5 { font-size: 120%;}
 h6 { font-size: 100%;}
 
 p {
-  font-family: Sans-Serif;
+  font-family: 'Source Code Pro', monospace;
 }
 
 .color1 {
@@ -155,7 +155,7 @@ p {
   padding-right: 31px;
 }
 #menu a {
-  font-family: Sans-Serif;
+  font-family: 'Source Code Pro', monospace;
   font-size: 20px;
 
 }
@@ -190,6 +190,7 @@ p {
 }
 #footer {
   clear: both;
+  font-family: 'Source Code Pro', monospace;
 }
 #main_content {
   width: 545px;

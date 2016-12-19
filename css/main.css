@@ -99,7 +99,7 @@ h5 { font-size: 120%;}
 h6 { font-size: 100%;}
 
 p {
-  font-family: 'Source Code Pro', monospace;
+  font-family: Sans-Serif;
 }
 
 .color1 {
@@ -173,6 +173,7 @@ p {
 #callout1, #callout2, #callout3 {
   float: left;
   width: 320px;
+  font-family: 'Source Code Pro', monospace;
 }
 #banner {
   clear: both;

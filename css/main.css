@@ -337,7 +337,6 @@ p {
     a,
     a:visited {
         text-decoration: underline;
-        color: blue;
     }
 
     a[href]:after {

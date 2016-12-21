@@ -9,7 +9,7 @@
    ========================================================================== */
 
 html {
-    color: #a7a7a7;
+    color: #FFFFFF;
     font-size: 1em;
     line-height: 1.4;
 }
@@ -140,7 +140,7 @@ p {
    border: 1px solid;
 }
 #header {
-   background-color: gray;
+   background-color: black;
    height: 86px;
    line-height: 86px;
 }
@@ -337,6 +337,7 @@ p {
     a,
     a:visited {
         text-decoration: underline;
+        color: blue;
     }
 
     a[href]:after {
